@@ -1,0 +1,7 @@
+#! /bin/sh
+#
+# Created by configure
+
+'/d/php-7.4.7/configure' \
+'PKG_CONFIG_PATH=/mingw32/lib/pkgconfig:/mingw32/share/pkgconfig' \
+"$@"
